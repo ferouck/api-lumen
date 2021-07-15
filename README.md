@@ -14,18 +14,7 @@
   <ol>
     <li>
       <a href="#about-the-project">Sobre o projeto</a>
-      <ul>
-        <li><a href="#built-with">Build</a></li>
-      </ul>
     </li>
-    <li>
-      <a href="#getting-started">Passo a Passo</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
   </ol>
 </details>
 
