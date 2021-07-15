@@ -10,7 +10,6 @@
 </p>
 
 <details open="open">
-  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">Sobre o projeto</a>
@@ -18,14 +17,11 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
   <p>O intituito deste projeto foi criar uma API simples usando o LUMEN, utilizando o método de autenticação JWT, sendo um bom ponta-pé para o inicio de um projeto que necessite das mesmas<p>
 
-### Built With
+### Ferramentas utilizadas
 
   Foi utilizado neste projeto 
 * [Lumen](https://lumen.laravel.com/)
