@@ -11,7 +11,7 @@
 
 ## Sobre o projeto
 
-  <p>O intituito deste projeto foi criar uma API simples usando o LUMEN, utilizando o método de autenticação JWT, sendo um bom ponta-pé para o inicio de um projeto que necessite das mesmas<p>
+  <p>O itituito deste projeto foi criar uma API simples usando o LUMEN, utilizando o método de autenticação JWT, sendo um bom ponta-pé para o inicio de um projeto que necessite das mesmas<p>
 
 ### Ferramentas utilizadas
 
