@@ -23,11 +23,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-    O intituito deste projeto foi criar uma API simples usando o LUMEN, utilizando o método de autenticação JWT, sendo um bom ponta-pé para o inicio de um projeto que necessite das mesmas
+  <p>O intituito deste projeto foi criar uma API simples usando o LUMEN, utilizando o método de autenticação JWT, sendo um bom ponta-pé para o inicio de um projeto que necessite das mesmas<p>
 
 ### Built With
 
-    Foi utilizado neste projeto, 
+  Foi utilizado neste projeto 
 * [Lumen](https://lumen.laravel.com/)
 * [JWT](https://jwt.io/)
 * [Laravel](https://laravel.com)
